@@ -1,2 +1,1 @@
-# Banking-Management-System
-Banking Management System by OOP Python
+# OOP-Final-Exam-Batch2
